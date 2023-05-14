@@ -4,7 +4,7 @@ import com.devsuperior.dslist.entities.Game;
 import com.devsuperior.dslist.projections.GameMinProjection;
 
 public class GameMinDTO {
-//dto - classe auxiliar e independente, não está mapeado com o banco - 
+//DTO - classe auxiliar e independente, não está mapeado com o banco 
 //busca numa entidade q tem mts dados p projetar um conjunto menor de dados
 	private Long id;
 	private String title;
